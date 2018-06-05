@@ -1112,9 +1112,7 @@ public class Aegyo {
                     break;
             }break;
             case 99 :
-                System.out.println("***************************************");
-                System.out.println("== THANKS FOR SHOPPING IN AEGYO SHOP ==");
-                System.out.println("***************************************");
+
                 System.exit(0);
                 break;
         }
