@@ -76,6 +76,7 @@ public class Aegyo {
 
     }
     static void LS(){
+        System.out.println("================================");
     }
     
     static void shirt(){
